@@ -1,4 +1,4 @@
-// File: D:\xampp\htdocs\Github Project\Web\tester\src\app\frequently-asked-questions\page.jsx
+// File: D:\xampp\htdocs\Github Project\Web\contest-health-rx\src\app\frequently-asked-questions\page.jsx
 import * as entry from '../../../../src/app/frequently-asked-questions/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
